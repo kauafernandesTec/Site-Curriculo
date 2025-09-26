@@ -1,0 +1,63 @@
+.logo{
+    width: 10%;
+}
+
+.fonte{
+    font-size: 1.5rem;
+    padding-right: 10   px;
+}
+
+.img-fluid{
+    border-radius: 20px;
+}
+
+.border-danger-subtle {
+  border-color: rgba(26, 25, 25, 0.975) !important;
+}
+
+.fundokaua {
+    background-color: rgb(255, 254, 254);
+}
+
+.alinhar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+  .col1{
+    margin-top: 10px;
+    border: 4px solid #000000;
+    border-radius: 20px;
+    display: flex;
+}
+
+.rodape{
+    font-size: 15px;
+    padding: 15px 0;
+    text-align: center;
+}
+
+.video-container {
+    max-width: 300px;
+    margin: 0 auto;
+    border-radius: 10px;
+    overflow: hidden; 
+    box-shadow: 0 9px 8px rgba(0, 0, 0, 0.5); 
+    border-style: outset;
+    border-color: #000000;
+}
+
+.video-container video,
+.video-container iframe{
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.meutexto{
+    font-size: 18px;
+    margin-right: 300px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
